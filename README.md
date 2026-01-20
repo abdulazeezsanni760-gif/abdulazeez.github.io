@@ -1,0 +1,45 @@
+Copy code
+Html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Abdulazeez | About</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 60px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      margin-bottom: 5px;
+    }
+    p {
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Abdulazeez</h1>
+  <p><strong>About Me</strong></p>
+
+  <p>
+    Hello! My name is Abdulazeez. I am passionate about learning, personal growth,
+    and building useful digital skills. This website serves as my personal space
+    where I share information about myself and my journey.
+  </p>
+
+  <p>
+    I am interested in technology, online opportunities, and continuous self-development.
+    This page will grow as I grow.
+  </p>
+
+  <p>
+    📧 Contact: your-email@example.com
+  </p>
+
+</body>
+</html>
